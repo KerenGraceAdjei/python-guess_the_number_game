@@ -57,7 +57,10 @@ guess-the-number-game/
 
 
 ### Game Preview
-Screenshot coming soon – will show the game running in Jupyter Notebook.
+
+Here is an example of the game running inside Jupyter Notebook:
+
+![Game Preview](Game_image/Python_game_preview.png)
 
 
 ### Game Features 
@@ -74,5 +77,6 @@ Screenshot coming soon – will show the game running in Jupyter Notebook.
 - Add a leaderboard at the top that tracks high scores
 - Store game statistics in a text or JSON file between sessions
 - Add sound effects, background music or colour-coded terminal output
+
 
 Created by Keren-Grace Adjei
