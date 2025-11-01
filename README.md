@@ -49,18 +49,18 @@ To verify installation, open Command Prompt (Windows) or Terminal (Mac)
 ### File Structure (GitHub Repo)
 guess-the-number-game/
 │
-├── README.md                                  # This file
+├── README.md                                  
 ├── KerenGraceAdjei_Python_Project_Game_Development.ipynb  # Notebook with game code
 │
-├── flowchart/
-│   └── game_flowchart.png                     # Flowchart (image/pdf)
+├── game_flowchart/
+│   └── flowchart-python-project-guess-the-number-game.pdf               
 
 
 ### Game Preview
 
 Here is an example of the game running inside Jupyter Notebook:
 
-![Game Preview](Game_image/Python_game_preview.png)
+![Game Preview](Game_Image/Python_game_preview.png)
 
 
 ### Game Features 
@@ -80,3 +80,4 @@ Here is an example of the game running inside Jupyter Notebook:
 
 
 Created by Keren-Grace Adjei
+
